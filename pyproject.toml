@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "fashionv2"
+version = "0.1.0"
+description = ""
+authors = ["Pedro Machado <pedro.machado.ag@gmail.com>"]
+license = "dev"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
